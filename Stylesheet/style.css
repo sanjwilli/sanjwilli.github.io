@@ -1,0 +1,65 @@
+#header{
+	margin-bottom: 110px;
+	margin-left: 100px
+}
+#pic{
+	position: absolute;
+	right: 200px;
+	-ms-transform: rotate(-10deg);
+	-webkit-transfor: rotate(-10deg);
+	transform: rotate(-10deg);
+}
+.info{
+	margin: auto;
+	width: 30%;
+	padding: 5px;
+	float: left;
+}
+.hclear{
+	clear: both;
+}
+.p{
+	margin-right: 250px
+}
+p{
+	margin: 0px 0px 20px 0px;
+	font-family: Comic Sans MS, cursive, Sans-Serif;
+}
+h4{
+	margin: 0px 0px 5px 0px;
+}
+h1{
+	margin: 0px 0px 16px 0px;
+	font-size: 45px;
+	font-weight: bold;
+	padding: 0px 0px 16px 0px;
+	border-bottom: 1px solid #999;
+}
+body{
+	font-family: Helvetica, Sans-Serif;
+	font-size: 16px;
+	line-height: 24px;
+	background: #C6CBCC;
+	margin: 90px;
+	padding: 50px
+}
+ul{
+	margin: 0px 0px 30px 15px;
+}
+.email{
+	color: #008282;
+}
+.clearfix{
+	overflow: auto;
+	margin: 0px 0px 30px 200px;
+}
+.nav{
+	margin: auto;
+	width: 10%;
+	border-right: 1px solid #999;
+	text-align: right;
+	padding: 0px 30px 50px 0px;
+	font-size: 18px;
+	font-style: italic;
+	float: left;
+}
